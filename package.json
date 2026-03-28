@@ -9,7 +9,7 @@
     "start": "nodemon script.js"
   },
   "keywords": [],
-  "author": " ",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
